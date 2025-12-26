@@ -1,0 +1,3 @@
+/home/ig/Desktop/seti_p2/lab4 snake/2try/snake_network/build/CMakeFiles/snake_network.dir
+/home/ig/Desktop/seti_p2/lab4 snake/2try/snake_network/build/CMakeFiles/edit_cache.dir
+/home/ig/Desktop/seti_p2/lab4 snake/2try/snake_network/build/CMakeFiles/rebuild_cache.dir
