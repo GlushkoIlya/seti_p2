@@ -1,0 +1,13 @@
+{
+    "api_keys": {
+        "graphhopper": "13237d25-37f8-409d-ab7a-7382346dec85",
+        "openweather": "874717e0d9cb298cad34b270fb42bc92"
+    },
+    "settings": {
+        "language": "ru",
+        "weather_units": "metric",
+        "search_radius": "10000",
+        "timeout": "10",
+        "max_places": "10"
+    }
+}
